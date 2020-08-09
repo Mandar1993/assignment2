@@ -8,3 +8,16 @@ for i in range(rowss, 0, -1):
     for j in range(0,i):
         print("*", end="")
     print()
+
+    
+    
+    #output
+    
+* 
+** 
+*** 
+**** 
+*****
+****
+***
+**
