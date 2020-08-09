@@ -21,3 +21,5 @@ for i in range(rowss, 0, -1):
 ****
 ***
 **
+*
+
